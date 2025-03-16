@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.nav {
+    background-color: #0099FF;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.nav a {
+    color: inherit;
+}
