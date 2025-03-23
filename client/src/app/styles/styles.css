@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-.nav {
+.navBar {
     background-color: #0099FF;
     color: white;
     display: flex;
