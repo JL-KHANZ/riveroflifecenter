@@ -1,0 +1,9 @@
+
+.navBar {
+    background-color: white;
+    height: 100vh;
+    width: 20vw;
+    color: black;
+    flex-direction: column;
+    display: flex;
+}
